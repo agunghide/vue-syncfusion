@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+## Preview
+[Preview Video](https://github.com/agunghide/vue-syncfusion/assets/52908357/1dc4a76d-2c00-4497-939a-f4d17987b3b0)
+
+
 ## Build Setup
 
 ``` bash
