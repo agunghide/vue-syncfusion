@@ -1,6 +1,6 @@
 # vue-syncfusion
 
-> A Vue.js project
+> A Vue.js project for testing library [Syncfusion Document Editor](https://ej2.syncfusion.com/vue/documentation/document-editor/getting-started)
 
 ## Preview
 [Preview Video](https://github.com/agunghide/vue-syncfusion/assets/52908357/1dc4a76d-2c00-4497-939a-f4d17987b3b0)
